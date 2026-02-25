@@ -190,3 +190,4 @@ nbdist/
 .env
 
 .mcp.json
+src/main/resources/application.properties
