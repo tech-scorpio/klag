@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  klag:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2026-03-16T14:51:28.030340141+01:00"
+    description: A Helm chart for Klag - Kafka Lag Exporter built with Vert.x
+    digest: 757c8c073efec18691cd9fa4acd617ef2fcb4becfb20a3c7a3e87c34d5e08c60
+    home: https://github.com/themoah/klag
+    keywords:
+    - kafka
+    - lag
+    - monitoring
+    - prometheus
+    - metrics
+    - consumer-groups
+    maintainers:
+    - name: themoah
+    name: klag
+    sources:
+    - https://github.com/themoah/klag
+    type: application
+    urls:
+    - klag-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-03-16T14:51:28.029440027+01:00"
